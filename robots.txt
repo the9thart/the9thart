@@ -1,0 +1,14 @@
+User-agent: * 
+Allow: /
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /lib/
+
+Sitemap: https://the9th.art/sitemap.xml
+Sitemap: https://the9th.art/baidusitemap.xml

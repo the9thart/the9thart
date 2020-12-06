@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的博客</title>
+  
+  <subtitle>我在 CODING 部署的 Hexo 博客</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-12-06T06:19:14.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>The9thArt</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好 CODING</title>
+    <link href="http://yoursite.com/2020/12/06/hello-world/"/>
+    <id>http://yoursite.com/2020/12/06/hello-world/</id>
+    <published>2020-12-06T11:57:36.363Z</published>
+    <updated>2020-12-06T06:19:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎使用 <a href="https://help.coding.net/docs/cd/static-website-v2.html" target="_blank" rel="noopener">CODING DevOps 静态网站</a> 部署 <a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo</a> 应用！<br>您可以到这里查看更多的 Hexo 的 <a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">文档</a>。</p><p>这是你的第一篇文章。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>相关帮助: <a href="https://hexo.io/zh-cn/docs/writing.html" target="_blank" rel="noopener">写作</a></p><h3 id="本地运行"><a href="#本地运行" class="headerlink" title="本地运行"></a>本地运行</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>相关帮助: <a href="https://hexo.io/zh-cn/docs/server.html" target="_blank" rel="noopener">服务器</a></p><h3 id="部署到线上"><a href="#部署到线上" class="headerlink" title="部署到线上"></a>部署到线上</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git add . &amp;&amp; git commit -m <span class="string">'new post'</span> &amp;&amp; git push</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎使用 &lt;a href=&quot;https://help.coding.net/docs/cd/static-website-v2.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CODING DevOps 静态网站&lt;/a&gt; 部署 &lt;a href=&quot;h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
